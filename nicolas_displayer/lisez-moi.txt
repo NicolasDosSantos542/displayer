@@ -1,0 +1,9 @@
+Mise en place de l'application:
+1) placer le dossier "nicolas_displayer" sur votre server ou votre server local
+2) accédez au dossier avec votre navigateur via votre server (les navigateurs comme chrome et firefox refusent de lire directement les fichiers html à cause des requetes CORS)
+3) Profitez!
+3-1) la lecture de vidéos se fait à la racine du projet
+3-2) le pilotage des vidéos se fait en ajoutant /drive de votre url
+
+Atention! Cette page a été développée sur firefox, et par manque de temps elle n'est optimisée que pour firefox.
+Si vous utilisez un autre navigateur, il est possible que des bugs d'affichage apparaissent
